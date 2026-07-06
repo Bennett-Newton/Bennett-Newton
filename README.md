@@ -1,7 +1,7 @@
 <!-- ============ HERO BANNER ============ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Booshana&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Developer%20%40%20Eight25Media&descAlignY=58&descSize=18" alt="header banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Bennett&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Developer%20%40%20Eight25Media&descAlignY=58&descSize=18" alt="header banner" />
 
 <!-- Animated tagline -->
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Backend+Developer;Next.js+%2B+Node.js+engineer;Headless+CMS+specialist;GraphQL+%26+SQL+APIs&font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=520&height=45)](https://github.com/Bennett-Newton)
@@ -17,7 +17,7 @@
 ## 👨‍💻 About Me
 
 ```ts
-const booshana = {
+const bennett = {
   role: "Backend Developer",
   company: "Eight25Media",
   focus: ["APIs", "headless CMS", "performance"],
