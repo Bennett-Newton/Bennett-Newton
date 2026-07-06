@@ -70,18 +70,24 @@ I build fast, reliable backends and headless CMS-powered web experiences — tur
 
 </div>
 
----
+<!--
+  FALLBACK STAT CARDS
+  The cards above use free public services that are sometimes rate-limited.
+  If any of them fail to load on your live profile, comment out the broken one
+  above and uncomment an alternative below (they pull the same data from
+  different providers).
 
-## 🚀 Featured Projects
+  1) Profile summary cards (different service: github-profile-summary-cards.vercel.app)
+  ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bennett-Newton&theme=tokyonight)
+  ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bennett-Newton&theme=tokyonight)
+  ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bennett-Newton&theme=tokyonight)
 
-> _Replace these with your favorite repositories._
+  2) Streak alternative (self-hostable app instead of the demolab demo)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bennett-Newton&theme=tokyonight&hide_border=true)
 
-<div align="center">
-
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=Bennett-Newton&repo=REPO_NAME_1&theme=tokyonight&hide_border=true)](https://github.com/Bennett-Newton/REPO_NAME_1)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=Bennett-Newton&repo=REPO_NAME_2&theme=tokyonight&hide_border=true)](https://github.com/Bennett-Newton/REPO_NAME_2)
-
-</div>
+  3) Activity graph (contribution trend over time)
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bennett-Newton&theme=tokyo-night&hide_border=true)
+-->
 
 ---
 
