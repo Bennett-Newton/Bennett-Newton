@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ## 👨‍💻 About Me
 
 ```ts
-const booshana = {
+const bennett = {
   role: "Backend Developer",
   company: "Eight25Media",
   focus: ["APIs", "headless CMS", "performance"],
