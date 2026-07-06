@@ -62,7 +62,7 @@ I build fast, reliable backends and headless CMS-powered web experiences — tur
 
 <div align="center">
 
-![Booshana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bennett-Newton&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Booshana's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bennett-Newton&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bennett-Newton&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
