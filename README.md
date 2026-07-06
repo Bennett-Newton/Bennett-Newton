@@ -103,8 +103,6 @@ I build fast, reliable backends and headless-CMS-powered web experiences — tur
 
 <div align="center">
 
-> _Replace the `#` placeholders with your real LinkedIn and portfolio URLs._
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/Email-E34BA9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bennett.newton@eight25media.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=aboutdotme&logoColor=white)](#)
