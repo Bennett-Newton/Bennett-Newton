@@ -94,7 +94,7 @@ I build fast, reliable backends and headless-CMS-powered web experiences — tur
 > _Add your real links below — replace the `#` with your URLs._
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](bennett.newton@eight25media.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=aboutdotme&logoColor=white)](#)
 
 </div>
